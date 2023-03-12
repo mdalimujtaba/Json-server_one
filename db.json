@@ -10,5 +10,17 @@
             "title":"Vikas",
             "city":"Muzaffarpur"
         }
+    ],
+    "products":[
+        {
+            "id":1,
+            "title":"Oil",
+            "price":234
+        },
+        {
+            "id":2,
+            "title":"Olive Oil",
+            "price":2399
+        }
     ]
 }
