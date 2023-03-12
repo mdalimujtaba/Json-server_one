@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+            "id":1,
+            "title":"Md Ali",
+            "city":"Gaya"
+        },
+        {
+            "id":2,
+            "title":"Vikas",
+            "city":"Muzaffarpur"
+        }
+    ]
+}
