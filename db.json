@@ -40,7 +40,7 @@
             "cost":"4000",
             "booked":false
         },{
-            "category": "Family",
+            "category": "Suite",
             "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
             "type_of_room": "AC",
             "bed_type": "Double",
@@ -49,7 +49,7 @@
             "cost":"4000",
             "booked":false
         },{
-            "category": "Family",
+            "category": "Deluxe",
             "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
             "type_of_room": "AC",
             "bed_type": "Double",
@@ -58,7 +58,7 @@
             "cost":"4000",
             "booked":false
         },{
-            "category": "Family",
+            "category": "Deluxe",
             "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
             "type_of_room": "AC",
             "bed_type": "Double",
@@ -67,7 +67,7 @@
             "cost":"4000",
             "booked":false
         },{
-            "category": "Family",
+            "category": "Suite",
             "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
             "type_of_room": "AC",
             "bed_type": "Double",
