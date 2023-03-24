@@ -76,5 +76,47 @@
             "cost":"4000",
             "booked":false
         }
+    ],
+    "companies":[
+        {
+            "id" : 1,
+        "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+        "company_name": "HDFC Bank",
+        "company_type": "Bank",
+            "stock_exchange": "NSE",
+            "total_shares": 50000,
+            "cost_per_share": 4210,
+            "price_action": 12
+      },
+      {
+            "id" : 2,
+        "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+        "company_name": "Reliance Industries",
+        "company_type": "Oil",
+            "stock_exchange": "BSE",
+            "total_shares": 20000,
+            "cost_per_share": 2132,
+            "price_action": 4
+      },
+      {
+		"id" : 3,
+    "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+    "company_name": "ICICI Bank",
+    "company_type": "Bank",
+		"stock_exchange": "NSE",
+		"total_shares": 40000,
+		"cost_per_share": 4610,
+		"price_action": 15
+  },
+  {
+		"id" : 4,
+    "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+    "company_name": "Adani Industries",
+    "company_type": "Oil",
+		"stock_exchange": "BSE",
+		"total_shares": 30000,
+		"cost_per_share": 2632,
+		"price_action": 7
+  }
     ]
 }
